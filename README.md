@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @santtsuk
-- 👀 I’m interested in Back-End
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Olá, Bem-vindo ao Meu Repositório!
 
-<!---
-santtsuk/santtsuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meu nome é **Marlon Santos**, sou estudante de **Desenvolvimento de Sistemas (D.S.)** e estou em constante aprendizado, buscando aprimorar minhas habilidades na resolução de problemas e no desenvolvimento de soluções tecnológicas.
+
+Este repositório é onde compartilho projetos, estudos e experimentos que fazem parte da minha jornada de aprendizado. Aqui, estou construindo e refinando ideias ao longo do meu processo de estudos, com o objetivo de me preparar para ingressar no mercado de trabalho.
+
+Fique à vontade para explorar e deixar seus feedbacks nos projetos! Suas contribuições são muito bem-vindas e ajudarão na construção de melhorias futuras. 
+    
