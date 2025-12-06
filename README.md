@@ -6,11 +6,13 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/75981724396)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dev_santts)
 
-Sou Marlon Santos, estudante de Desenvolvimento de Sistemas. Uso este espaço para registrar minha evolução: projetos, exercícios, testes de conceito e tudo que faço para praticar lógica, programação e construção de soluções.
+Sou Marlon Santos, estudante de Desenvolvimento de Sistemas. Este repositório é meu ambiente de prática: registro projetos, exercícios, testes de conceito e qualquer experimento que me ajude a melhorar lógica, programação e construção de soluções reais.
 
-A ideia aqui é simples: documentar o que estou aprendendo, melhorar ao longo do tempo e criar uma base sólida para atuar profissionalmente na área.
+A proposta é simples: evoluir continuamente, documentar o que aprendo e construir uma base sólida para atuar profissionalmente na área de tecnologia.
 
-Sinta-se livre para explorar os projetos e comentar. Qualquer feedback é útil para ajustar tanto o código quanto meu processo de desenvolvimento.
+Fique à vontade para explorar os projetos. Feedbacks são sempre bem-vindos — qualquer detalhe ajuda a ajustar meu código e meu processo de desenvolvimento.
+
+Se quiser trocar ideia, tirar dúvida ou conversar sobre qualquer projeto, você me encontra nas redes sociais no topo da página.
 
 ---
 
@@ -59,16 +61,16 @@ Sinta-se livre para explorar os projetos e comentar. Qualquer feedback é útil 
 ---
 ## O que posso encontrar aqui?
 
-### **SUITS — Rastreamento Jurídico**
+### [**SUITS — Rastreamento Jurídico**](https://github.com/msantt/SUITS)
 Sistema voltado para acompanhamento e rastreabilidade de processos jurídicos. Permite visualizar o andamento, status e movimentações dentro de uma ação, facilitando o controle interno no ambiente de advocacia.
 
-### **Sistema de Vendas — Estoque e Gestão para Microempresas**
+### [**Sistema de Vendas — Estoque e Gestão para Microempresas**](https://github.com/msantt/SistemaDeVendas)
 Aplicação criada para auxiliar microempreendedores no controle de estoque, registro de vendas e organização de produtos. Focado em reduzir erros manuais e tornar o processo de gestão mais simples e direto.
 
-### **App Fitness — Desafios e Competitividade Saudável**
+### [**App Fitness — Desafios e Competitividade Saudável**](https://github.com/msantt/App.Fitness)
 Aplicativo que promove desafios entre usuários, incentivando hábitos saudáveis por meio de competições, metas e apostas amigáveis. A ideia é transformar disciplina em jogo.
 
-### **Controle de Entrega — Logística e Rastreamento de Materiais**
+### [**Controle de Entrega — Logística e Rastreamento de Materiais**](https://github.com/msantt/ControleEntrega)
 Meu primeiro projeto pessoal. Ferramenta em desenvolvimento para gerenciar a entrega de materiais, vinculando itens ao motorista responsável para reduzir perdas, falhas de processo e inconsistências no fluxo de expedição. É meu laboratório real: estudo, erro e evoluo diretamente nele.
 
 ---
