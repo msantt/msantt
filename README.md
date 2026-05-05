@@ -123,7 +123,14 @@ Se quiser trocar ideia, tirar dúvida ou conversar sobre qualquer projeto, você
 
 ---
 
-## Como usar este repositório?
-Este espaço funciona como um portfólio.  
-Para cada projeto listado na seção acima, acesse o respectivo repositório no meu perfil.  
-Lá você encontra instruções de execução, tecnologias utilizadas e detalhes técnicos.
+### 📊 Estatísticas do GitHub
+![msantt's GitHub stats](https://github-readme-stats.vercel.app/api?username=msantt&show_icons=true&theme=radical)
+
+### 🔥 Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msantt&layout=compact&theme=radical)
+
+### 📈 Gráfico de Contribuições
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=msantt&theme=react-dark)
+---
+
+✨ Obrigado por visitar meu perfil!
