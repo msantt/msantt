@@ -81,14 +81,21 @@ Se quiser trocar ideia, tirar dúvida ou conversar sobre qualquer projeto, você
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" valign="top" width="30%">
       <h3>SUITS — Rastreamento Jurídico</h3>
       <p>Sistema para acompanhamento e rastreabilidade de processos jurídicos. Visualize andamento, status e movimentações dentro de uma ação.</p>
       <a href="https://github.com/msantt/SUITS">
         <img src="https://img.shields.io/badge/Ver%20Repositório-0A66C2?style=for-the-badge&logo=github"/>
       </a>
     </td>
-    <td align="center" width="50%">
+    <td align="center" valign="top" width="30%">
+      <h3>Injeplast New — LongPage</h3>
+      <p>Interface moderna construída inteiramente em HTML5, CSS3 e JavaScript puro.</p>
+      <a href="https://github.com/msantt/INJEPLAST-NEW">
+        <img src="https://img.shields.io/badge/Ver%20Repositório-0A66C2?style=for-the-badge&logo=github"/>
+      </a>
+    </td>
+    <td align="center" valign="top" width="30%">
       <h3>Sistema de Vendas</h3>
       <p>Aplicação para microempreendedores no controle de estoque, registro de vendas e organização de produtos.</p>
       <a href="https://github.com/msantt/SistemaDeVendas">
@@ -97,14 +104,14 @@ Se quiser trocar ideia, tirar dúvida ou conversar sobre qualquer projeto, você
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" valign="top" width="30%">
       <h3>App Fitness</h3>
       <p>Aplicativo que promove desafios entre usuários, incentivando hábitos saudáveis por meio de competições e metas.</p>
       <a href="https://github.com/msantt/App.Fitness">
         <img src="https://img.shields.io/badge/Ver%20Repositório-e05d44?style=for-the-badge&logo=github"/>
       </a>
     </td>
-    <td align="center" width="50%">
+    <td align="center" valign="top" width="30%">
       <h3>Controle de Entrega</h3>
       <p>Meu primeiro projeto pessoal. Gerencia entrega de materiais vinculando itens ao motorista responsável.</p>
       <a href="https://github.com/msantt/ControleEntrega">
