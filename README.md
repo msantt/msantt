@@ -89,7 +89,7 @@ Se quiser trocar ideia, tirar dúvida ou conversar sobre qualquer projeto, você
       </a>
     </td>
     <td align="center" valign="top" width="30%">
-      <h3>Injeplast New — LongPage</h3>
+      <h3>Injeplast New — Landing Page</h3>
       <p>Interface moderna construída inteiramente em HTML5, CSS3 e JavaScript puro.</p>
       <a href="https://github.com/msantt/INJEPLAST-NEW">
         <img src="https://img.shields.io/badge/Ver%20Repositório-0A66C2?style=for-the-badge&logo=github"/>
