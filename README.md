@@ -142,12 +142,13 @@ mindset:  "Entender o porquê antes do como."
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=msantt&bg_color=0d1117&color=00a2ff&line=007acc&point=00a2ff&area=true&hide_border=true" width="100%" />
 </a>
 
+<!--
 <br>
-
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=msantt&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00a2ff&icon_color=007acc&text_color=8b949e" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msantt&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00a2ff&text_color=8b949e" />
-
 <br>
+-->
+
 
 <img src="https://streak-stats.demolab.com?user=msantt&hide_border=true&background=0d1117&stroke=1f3a5f&ring=007acc&fire=00a2ff&currStreakNum=00a2ff&sideNums=8b949e&currStreakLabel=484f58&sideLabels=484f58&dates=484f58" />
 
