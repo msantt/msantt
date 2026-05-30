@@ -14,7 +14,7 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/msantt)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=00a2ff)](https://msantt.github.io/Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=00a2ff)](https://drive.google.com/file/d/12JhxRbQdsLOwP6qZf1aDNbgeZvMbwJ2G/view?usp=sharing)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dev_santts)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dev_santts)
 
@@ -40,7 +40,7 @@ focus:    ["APIs", "Pentest Tooling", "Clean Architecture", "Flutter"]
 os:       "Windows + Kali Linux (dual-boot)"
 editor:   "VS Code / IntelliJ"
 terminal: "bash + PowerShell"
-lab:      "VMware → KaliVoid"
+lab:      "VMware → Kali"
 
 # agora
 building:
