@@ -22,7 +22,8 @@
 
 </div>
 
----
+
+<!-- ---
 
 ## ▸ About
 
@@ -52,7 +53,7 @@ building:
 mindset:  "Entender o porquê antes do como."
 ```
 
----
+--- -->
 
 ## ▸ Stack
 
@@ -109,6 +110,7 @@ mindset:  "Entender o porquê antes do como."
       <a href="https://github.com/msantt/ControleEntrega"><code>→ github.com/msantt/ControleEntrega</code></a>
     </td>
     <td width="50%" valign="top">
+      <!--  
       <h3>🔧 Tools Jacking <code>WIP</code></h3>
       <p>Suite de automação para pentest. Integra Nmap, SQLmap e Metasploit em uma API centralizada com backend FastAPI e cliente Android em Kotlin.</p>
       <p>
@@ -118,7 +120,6 @@ mindset:  "Entender o porquê antes do como."
       <a href="https://github.com/msantt"><code>→ Em desenvolvimento</code></a>
     </td>
   </tr>
-
   <tr>
     <td width="50%" valign="top">
       <h3>📱 Mobile PenTest Lab <code>WIP</code></h3>
@@ -129,7 +130,7 @@ mindset:  "Entender o porquê antes do como."
       </p>
       <a href="https://github.com/msantt"><code>→ Em desenvolvimento</code></a>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top"> -->
       <h3>⚖️ SUITS — Rastreamento Jurídico</h3>
       <p>Sistema para acompanhamento de processos jurídicos. Centraliza status, movimentações e histórico de ações em uma interface objetiva.</p>
       <p>
@@ -147,27 +148,31 @@ mindset:  "Entender o porquê antes do como."
 
 <div align="center">
 
+<!--
 <a href="https://github.com/msantt">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=msantt&bg_color=0d1117&color=00a2ff&line=007acc&point=00a2ff&area=true&hide_border=true" width="100%" />
-</a>
 
-<!--
-<br>
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=msantt&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00a2ff&icon_color=007acc&text_color=8b949e" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msantt&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00a2ff&text_color=8b949e" />
-<br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msantt&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00a2ff&text_color=8b949e"/>
+</a>
 -->
+
 
 <img src="https://streak-stats.demolab.com?user=msantt&hide_border=true&background=0d1117&stroke=1f3a5f&ring=007acc&fire=00a2ff&currStreakNum=00a2ff&sideNums=8b949e&currStreakLabel=484f58&sideLabels=484f58&dates=484f58" />
 
 </div>
 
+<div align="center">
+  
+![snake gif](https://github.com/msantt/msantt/blob/output/github-snake-dark.svg)
+
+</div>
 ---
 
 <div align="center">
 
 ```
 ~/msantt $ echo "the void doesn't stop — it consumes, processes, and expands."
+
 > Feedbacks são sempre bem-vindos — cada linha de código é uma decisão.
 ```
 
