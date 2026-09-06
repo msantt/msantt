@@ -157,8 +157,8 @@ mindset:  "Entender o porquê antes do como."
 -->
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=msantt&theme=blue-navy&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&card_width=467&card_height=195" width="467"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-stats-extended.vercel.app/api?username=msantt&show_icons=true&include_all_commits=true&theme=github_dark" width="467"/>
+<img src="https://streak-stats.demolab.com?user=msantt&theme=blue-navy&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&card_width=467&card_height=195" width="440"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-stats-extended.vercel.app/api?username=msantt&show_icons=true&include_all_commits=true&theme=github_dark" width="440"/>
 
 </div>
 
