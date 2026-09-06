@@ -1,21 +1,21 @@
 <div align="center">
 
 ```
-███╗   ███╗ ███████╗  █████╗  ███╗  ██╗ ████████╗ ████████╗
-████╗ ████║ ██╔════╝ ██╔══██╗ ████╗ ██║ ╚══██╔══╝ ╚══██╔══╝
-██╔████╔██║ ███████╗ ███████║ ██╔██╗██║    ██║       ██║   
-██║╚██╔╝██║ ╚════██║ ██╔══██║ ██║╚████║    ██║       ██║   
-██║ ╚═╝ ██║ ███████║ ██║  ██║ ██║ ╚███║    ██║       ██║   
-╚═╝     ╚═╝ ╚══════╝ ╚═╝  ╚═╝ ╚═╝  ╚══╝    ╚═╝       ╚═╝
+███╗   ███╗       ███████╗  █████╗  ███╗   ██╗ ████████╗  ██████╗  ███████╗
+████╗ ████║       ██╔════╝ ██╔══██╗ ████╗  ██║ ╚══██╔══╝ ██╔═══██╗ ██╔════╝
+██╔████╔██║       ███████╗ ███████║ ██╔██╗ ██║    ██║    ██║   ██║ ███████╗
+██║╚██╔╝██║       ╚════██║ ██╔══██║ ██║╚██╗██║    ██║    ██║   ██║ ╚════██║
+██║ ╚═╝ ██║  ██║  ███████║ ██║  ██║ ██║ ╚████║    ██║    ╚██████╔╝ ███████║
+╚═╝     ╚═╝  ╚═╝  ╚══════╝ ╚═╝  ╚═╝ ╚═╝  ╚═══╝    ╚═╝     ╚═════╝  ╚══════╝
 ```
 
-**`~/dev $ whoami — Marlon Santos | Systems Developer`**
+**`~/software $ whoami — Marlon Santos | Software Engineer`**
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/msantt)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=00a2ff)](https://drive.google.com/file/d/12JhxRbQdsLOwP6qZf1aDNbgeZvMbwJ2G/view?usp=sharing)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dev_santts)
+[![Currículo](https://img.shields.io/badge/Currículo-111827?style=for-the-badge&logo=githubpages&logoColor=00a2ff)](https://drive.google.com/file/d/12JhxRbQdsLOwP6qZf1aDNbgeZvMbwJ2G/view?usp=sharing)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dev_santt)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=msantt&color=007acc&style=flat-square&label=profile+views)
@@ -51,6 +51,7 @@ building:
 # mentalidade
 mindset:  "Entender o porquê antes do como."
 ```
+
 ---
 
 ## ▸ Stack
@@ -88,8 +89,11 @@ mindset:  "Entender o porquê antes do como."
 
 ---
 
-## ▸ Projeto em destaque
+## ▸ Projetos em destaque
+
+
 <table>
+  
   <tr>
     <td width="50%" valign="top">
       <h3>📦 ControleEntrega <code>ATIVO</code></h3>
@@ -111,6 +115,7 @@ mindset:  "Entender o porquê antes do como."
       <a href="https://github.com/msantt"><code>→ Em desenvolvimento</code></a>
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
       <h3>📱 Mobile PenTest Lab <code>WIP</code></h3>
@@ -123,7 +128,7 @@ mindset:  "Entender o porquê antes do como."
     </td>
     <td width="50%" valign="top">
       <h3>⚖️ SUITS — Rastreamento Jurídico</h3>
-      <p>Sistema para acompanhamento de processos jurídicos. Centraliza status, movimentações e histórico de ações em interface objetiva.</p>
+      <p>Sistema para acompanhamento de processos jurídicos. Centraliza status, movimentações e histórico de ações em uma interface objetiva.</p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
@@ -135,7 +140,8 @@ mindset:  "Entender o porquê antes do como."
 
 ---
 
-## ▸ Github Stats
+## ▸ GitHub Stats
+
 <div align="center">
 
 <a href="https://github.com/msantt">
@@ -148,7 +154,6 @@ mindset:  "Entender o porquê antes do como."
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msantt&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00a2ff&text_color=8b949e" />
 <br>
 -->
-
 
 <img src="https://streak-stats.demolab.com?user=msantt&hide_border=true&background=0d1117&stroke=1f3a5f&ring=007acc&fire=00a2ff&currStreakNum=00a2ff&sideNums=8b949e&currStreakLabel=484f58&sideLabels=484f58&dates=484f58" />
 
