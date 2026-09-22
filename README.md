@@ -154,8 +154,8 @@ mindset:  "Entender o porquê antes do como."
 -->
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=msantt&theme=blue-navy&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&card_width=467&card_height=195" width="400"/>&nbsp;&nbsp;&nbsp;
-<img src="https://github-stats-extended.vercel.app/api?username=msantt&show_icons=true&include_all_commits=true&theme=github_dark" width="400"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=msantt&theme=github-dark-dimmed&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&mode=weekly&card_width=400&card_height=165)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;
+<img src="https://github-stats-extended.vercel.app/api?username=msantt&show_icons=true&include_all_commits=true&theme=github_dark" width="405"/>
 
 </div>
 
